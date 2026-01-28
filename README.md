@@ -1,2 +1,34 @@
-# ApexPlanet-Web-Development-Internship
- Web Development Internship Tasks at ApexPlanet Software Pvt. Ltd.
+ApexPlanet Web Development Internship 🚀
+
+This repository contains all my internship tasks completed during my Web Development Internship at ApexPlanet Software Pvt. Ltd.
+
+📁 Task Structure
+
+ Task-1-Basics-of-Web-Development  
+ Task-2 (Upcoming)  
+ Task-3 (Upcoming)  
+ Task-4 (Upcoming)  
+ Task-5 (Upcoming)  
+
+🔹 Task 1: Basics of Web Development
+
+Technologies Used:
+
+- HTML  
+- CSS  
+- JavaScript  
+
+Features: 
+
+- Personal portfolio webpage  
+- Clean UI design  
+- Basic JavaScript interactivity  
+- Responsive layout  
+
+📌 Author
+
+Aishwarya Machale
+
+Web Development Intern @ ApexPlanet Software Pvt. Ltd.
+
+⭐ If you like this project, feel free to star the repository!
